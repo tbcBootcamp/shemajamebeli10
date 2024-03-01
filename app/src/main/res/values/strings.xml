@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">shemajamebeliN10</string>
+    <string name="from_account">From Account</string>
+    <string name="choose_account">Choose Account</string>
+    <string name="number">number</string>
+    <string name="eur">EUR</string>
+    <string name="visa">VISA</string>
+    <string name="account_number">account_number</string>
+    <string name="phone_number">phone_number</string>
+    <string name="id">ID</string>
+    <string name="submit">submit</string>
+    <string name="from">From</string>
+    <string name="type">type</string>
+    <string name="to_account">To Account</string>
+    <string name="to">To</string>
+</resources>
